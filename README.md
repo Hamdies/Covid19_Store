@@ -1,6 +1,6 @@
-# covid19_shop
+# Covid19_Store
 
-Ui Covid 19 Shop
+Ui Covid 19 Store
 
 ## Getting Started
 
